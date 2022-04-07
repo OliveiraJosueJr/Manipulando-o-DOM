@@ -2,7 +2,7 @@
 
 ### Este repositório apresenta a funcionalidade Light Mode/Dark Mode utilizando JavaScript.
 
-#### @Digital Inovation One
+#### @Digital Innovation One
 
 
 
